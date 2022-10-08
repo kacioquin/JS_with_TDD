@@ -1,0 +1,19 @@
+{
+  "name": "js_with_tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kacioquin/JS_with_TDD.git"
+  },
+  "author": "Cassio de Freitas <cassio.quintino@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kacioquin/JS_with_TDD/issues"
+  },
+  "homepage": "https://github.com/kacioquin/JS_with_TDD#readme"
+}
